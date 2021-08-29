@@ -1,0 +1,66 @@
+img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.form{
+    width: 25%;
+    height: auto;
+    background-color: black;
+    margin: 30px;
+
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#netflix{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+
+    margin: 0px;
+
+
+}
+span{
+    color: red;
+}
+#thank{
+    color: white;
+  
+    text-align: center;
+}
+label{
+    color: white;
+  
+}
+input{
+    margin-top: 5px;
+}
+#cerceve{
+    width: 30%;
+  
+    background-color: black;
+}
+#submit{
+    font-size: larger;
+    margin: 16px 0px 16px 120px;
+    height: 45px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    background-color: red;
+    color:white;
+    cursor: pointer;
+}
+textarea {
+    resize: none;
+  }
