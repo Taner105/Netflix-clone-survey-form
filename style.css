@@ -42,9 +42,7 @@ label{
     color: white;
   
 }
-input{
-    margin-top: 5px;
-}
+
 #cerceve{
     width: 30%;
   
@@ -61,6 +59,3 @@ input{
     color:white;
     cursor: pointer;
 }
-textarea {
-    resize: none;
-  }
